@@ -1,4 +1,0 @@
-mi primer repo
-aprender git
-agrege esta linea al update-leeme branch
-cuarta linea ñam
